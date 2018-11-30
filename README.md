@@ -1,2 +1,2 @@
 # fifteen-thirty
-Voice controlled scoring system for tennis
+Have you ever forgotten the score during a tennis match you were playing in? Did your kids forget score, or did you just want to know what their score was? With fifteen-thirty, players simply say the score and the system takes care of the rest. Scores are stored in the cloud for display on a screen (mobile, TV, computer, you chose) and can be used to update third party competition systems with an open API.
